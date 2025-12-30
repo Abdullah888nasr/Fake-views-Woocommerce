@@ -1,0 +1,11 @@
+{
+    "name": "abdullah777nasr/fake-views",
+    "description": "show to custumers fake views in single product page",
+    "type": "project",
+    "license": "GPL",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Inc\\": "./Inc"}
+    }
+}
